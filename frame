@@ -11,28 +11,22 @@
 
   <center>
 
-    <h1>Super game zone</h1>
+    <h1>Fun Learning Zone</h1>
 
-    <h2>Play the challenge inside this webpage!</h2>
+    <h2>Enjoy the activity inside this webpage!</h2>
 
     <p>
-      Jump, move, dodge, and try to complete the game without opening a new tab.
+      Learn, play, and explore exciting activities without opening a new tab.
     </p>
 
-    <iframe 
-      src="https://scratch.mit.edu/projects/60917032/embed"
-      allowtransparency="true"
-      width="500"
-      height="400"
-      frameborder="0"
-      scrolling="no"
-      allowfullscreen>
+    <iframe src="https://scratch.mit.edu/projects/60917032/embed" allowtransparency="true" width="500" height="400"
+      frameborder="0" scrolling="no" allowfullscreen>
     </iframe>
 
-    <h2>The game is live!</h2>
+    <h2>The activity is live!</h2>
 
     <p>
-      This webpage uses an iframe to show an exciting Scratch game directly inside HTML.
+      This webpage uses an iframe to display an interesting Scratch project directly inside HTML.
     </p>
 
   </center>
